@@ -1,0 +1,5 @@
+#env variables store in env
+nodemon.json
+
+#node module
+node_modules
